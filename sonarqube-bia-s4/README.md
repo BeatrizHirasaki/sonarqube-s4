@@ -1,2 +1,0 @@
-# sonarqube-bia-s4
- 
